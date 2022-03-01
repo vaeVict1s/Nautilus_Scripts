@@ -1,7 +1,6 @@
 # Nautilus_Scripts
 
-This repository contains bash script for Nautilus  
-and other Linux File Browsers which supports scripts.
+This repository contains a collection of bash scripts for Linux File Browsers which supports scripts.
 
 ## List of scripts
 ### calculate_hash.sh
